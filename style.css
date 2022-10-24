@@ -1,0 +1,32 @@
+body {
+text-align: center;
+background-image: url("rockstar.jpg")
+}
+
+h1{
+color: darkgoldenrod;
+}
+
+h2{
+color: gold;
+}
+
+h3{
+color: rebeccapurple;
+}
+
+.verse{
+color: green;
+}
+
+.pre-chorus{
+color: crimson;
+}
+
+.chorus{
+color: darkorange;
+}
+
+.bridge{
+color: deeppink;
+}
